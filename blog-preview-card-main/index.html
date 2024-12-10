@@ -14,21 +14,170 @@
 
     <title>Frontend Mentor | Blog preview card</title>
 
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
     <style>
+      @font-face {
+        font-family: "figtree";
+        src: url("./assets/fonts/Figtree-VariableFont_wght.ttf");
+      }
+
+      :root {
+        --yellow: hsl(47, 88%, 63%);
+        --white: hsl(0, 0%, 100%);
+        --grey: hsl(0, 0%, 42%);
+        --black: hsl(0, 0%, 7%);
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        width: 100vw;
+        height: 100vh;
+        font-family: "figtree";
+        background-color: var(--yellow);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      p {
+        font-size: 16px;
+      }
+      .blog_card {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        width: 370px;
+        height: 480px;
+        border: 1px solid var(--black);
+        border-radius: 10px;
+        box-shadow: 7px 7px 0px var(--black);
+        background-color: var(--white);
+        padding: 15px 20px;
+        color: var(--black);
+      }
+      .blog_card_image {
+        width: 100%;
+        border-radius: 10px;
+        overflow: hidden;
+      }
+      .blog_card_image > img {
+        width: 100%;
+      }
+      .blog_card_header {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 100%;
+        gap: 15px;
+        padding: 10px 0;
+      }
+      .blog_card_header span {
+        background-color: var(--yellow);
+        display: inline;
+        width: max-content;
+        border-radius: 3px;
+        padding: 5px 15px;
+        font-weight: 800;
+      }
+      .blog_card_header h2:hover {
+        cursor: pointer;
+        color: var(--yellow);
+      }
+      .blog_card_header p {
+        font-weight: 540;
+      }
+      .blog_card_content {
+        width: 100%;
+        color: var(--grey);
+        font-weight: 500;
+        line-height: 1.35;
+      }
+      .blog_card_footer {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        font-weight: 800;
+        gap: 15px;
+      }
+      .blog_card_footer img {
+        width: 30px;
+        height: 30px;
+      }
       .attribution {
+        margin: 30px auto;
         font-size: 11px;
         text-align: center;
       }
       .attribution a {
         color: hsl(228, 45%, 44%);
       }
+      @media (max-width: 1024px) {
+        p {
+          font-size: 12px;
+        }
+        .blog_card {
+          width: 250px;
+          height: 350px;
+          padding: 20px 15px;
+        }
+        .blog_card_image {
+          width: 100%;
+          border-radius: 10px;
+          overflow: hidden;
+        }
+        .blog_card_image > img {
+          width: 100%;
+          object-fit: cover;
+        }
+        .blog_card_header {
+          padding: 10px 0;
+        }
+        .blog_card_header span {
+          font-size: 12px;
+        }
+        .blog_card_header h2 {
+          font-size: 16px;
+        }
+        .blog_card_header p {
+          font-weight: 540;
+        }
+        .blog_card_content {
+          line-height: 1.25;
+          margin-bottom: 15px;
+        }
+      }
     </style>
   </head>
   <body>
-    Learning Published 21 Dec 2023 HTML & CSS foundations These languages are
-    the backbone of every website, defining structure, content, and
-    presentation. Greg Hooper
+    <div class="blog_card">
+      <div class="blog_card_image">
+        <img
+          src="./assets/images/illustration-article.svg"
+          alt="illustration"
+        />
+      </div>
+      <div class="blog_card_header">
+        <span>Learning</span>
+        <p>Published 21 Dec 2023</p>
+        <h2>HTML & CSS foundations</h2>
+      </div>
+      <div class="blog_card_content">
+        <p>
+          These languages are the backbone of every website, defining structure,
+          content, and presentation.
+        </p>
+      </div>
+      <div class="blog_card_footer">
+        <img src="./assets/images/image-avatar.webp" alt="avatar" />
+        <p>Greg Hooper</p>
+      </div>
+    </div>
 
     <div class="attribution">
       Challenge by

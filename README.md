@@ -9,8 +9,8 @@ Below are the challenges I have completed so far. Click on the titles to view th
 - **[Challenge 1: QR Code Component](https://www.frontendmentor.io/solutions/qr-code-component-DsqdX8fyja)**  
   🌐 [Live Site](https://front-end-mentor-qrcode-component.netlify.app/)
 
-- **[Challenge 2: Blog Preview Card](#)**  
-  🌐 [Live Site](#)
+- **[Challenge 2: Blog Preview Card](https://adityanair07.github.io/frontend-mentor-challenges/blog-preview-card-main/index.html)**  
+  🌐 [Live Site](https://adityanair07.github.io/frontend-mentor-challenges/blog-preview-card-main/index.html)
 
 ## 💬 Contribution
 

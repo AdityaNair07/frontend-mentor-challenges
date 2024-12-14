@@ -8,6 +8,7 @@ Welcome to my repository dedicated to solving **Frontend Mentor Challenges**! Th
 |-------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | **Challenge 1: QR Code Component**  | [View Solution](https://www.frontendmentor.io/solutions/qr-code-component-DsqdX8fyja) | [Live Demo](https://front-end-mentor-qrcode-component.netlify.app/) |
 | **Challenge 2: Blog Preview Card**  | [View Solution](https://www.frontendmentor.io/solutions/blog-preview-card-solution-6EJIq2F35i) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/blog-preview-card-main/index.html) |
+| **Challenge 3: Social Link Profile**  | [View Solution](https://www.frontendmentor.io/solutions/social-links-profile-HMRu_rHslJ) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/social-links-profile-main/index.html) |
 
 ## 💬 Contribution
 

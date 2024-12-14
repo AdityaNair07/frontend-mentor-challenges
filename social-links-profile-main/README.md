@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,16 +22,16 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop view
 ![Desktop view](image.png)
 
-- Mobile view
 ![Mobile view](image-1.png)
+
+![Active view](image-2.png)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://adityanair07.github.io/frontend-mentor-challenges/social-links-profile-main)
+- Live Site URL: [Live](https://adityanair07.github.io/frontend-mentor-challenges/social-links-profile-main)
 
 ## My process
 

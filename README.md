@@ -10,7 +10,7 @@ Welcome to my repository dedicated to solving **Frontend Mentor Challenges**! Th
 | **Challenge 2: Blog Preview Card**  | [View Solution](https://www.frontendmentor.io/solutions/blog-preview-card-solution-6EJIq2F35i) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/blog-preview-card-main/index.html) |
 | **Challenge 3: Social Link Profile**  | [View Solution](https://www.frontendmentor.io/solutions/social-links-profile-HMRu_rHslJ) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/social-links-profile-main/index.html) |
 | **Challenge 4: Recipe Page**  | [View Solution](https://www.frontendmentor.io/solutions/recipe-page-solution-qKppi99DWL) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/recipe-page-main/index.html) |
-| **Challenge 5: Product Preview Card**  | [View Solution](https://www.frontendmentor.io/solutions/product-preview-card-qKppi99DWL) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/product-preview-page-main/index.html) |
+| **Challenge 5: Product Preview Card**  | [View Solution](https://www.frontendmentor.io/solutions/product-preview-card-qKppi99DWL) | [Live Demo](https://adityanair07.github.io/frontend-mentor-challenges/product-preview-card-component-main/index.html) |
 
 ## 💬 Contribution
 
